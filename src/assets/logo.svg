@@ -1,0 +1,93 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="400"
+  height="100"
+  viewBox="0 0 400 100"
+>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One');
+    
+    @font-face {
+      font-family: 'Bagel Fat One';
+      src: url(./BagelFatOne.ttf) format('truetype');
+    }
+    .animate-text {
+      font-family: 'Bagel Fat One', cursive;
+      
+    }
+</style>
+<text x="70" y="55">
+  <tspan class='animate-text' 
+    style='font-size: 100px;
+      fill: #ffffff;
+      text-shadow: 1px 3px 2px #000;' >
+    <!-- Animation for the letters 'charly' -->
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="1.0s" fill="freeze" />
+    { 
+  </tspan>
+   <tspan class='animate-text' 
+    style='font-size: 100px;
+      fill: #F31559;
+      text-shadow: 1px 2px 1px #000;' >
+   <!-- Animation for the letters 'c' -->
+   <animate attributeName="opacity" values="0;1" dur="1.0s" begin="0s" fill="freeze" />
+    c
+    </tspan>
+    <tspan class='animate-text'
+      style='font-size: 100px;
+      fill: #F31559;
+      text-shadow: 1px 2px 1px #000;' >
+    <!-- Animation for the letters 'ch' -->
+    <animate attributeName="opacity" values="0;1" dur="1.0s" begin="0.1s" fill="freeze" />
+    h
+    </tspan>
+    <tspan class='animate-text' 
+    style='font-size: 100px;
+      fill: #F31559;
+      text-shadow: 1px 2px 1px #000;' >
+    <!-- Animation for the letters 'cha' -->
+    <animate attributeName="opacity" values="0;1" dur="1.0s" begin="0.3s" fill="freeze" />
+    a
+    </tspan>
+    <tspan  class='animate-text' 
+    style='font-size: 100px;
+      fill: #F31559;
+      text-shadow: 1px 2px 1px #000;' >
+    <!-- Animation for the letters 'char' -->
+    <animate attributeName="opacity" values="0;1" dur="1.0s" begin="0.5s" fill="freeze" />
+    r 
+    </tspan>
+    <tspan class='animate-text' 
+    style='font-size: 100px;
+      fill: #F31559;
+      text-shadow: 1px 2px 1px #000;' >
+    <!-- Animation for the letters 'charl' -->
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.7s" fill="freeze" />
+    l 
+    </tspan>
+    <tspan class='animate-text' 
+    style='font-size: 100px;
+      fill: #F31559;
+      text-shadow: 1px 2px 1px #000;' >
+    <!-- Animation for the letters 'charly' -->
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.9s" fill="freeze" />
+    y 
+    </tspan>
+    <tspan class='animate-text' 
+    style='font-size: 100px;
+      fill: #ffffff;
+      text-shadow: 1px 3px 2px #000;' >
+    <!-- Animation for the letters 'charly' -->
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="1.0s" fill="freeze" />
+    / 
+    </tspan>
+    <tspan class='animate-text' 
+    style='font-size: 100px;
+      fill: #ffffff;
+      text-shadow: 1px 3px 2px #000;' >
+    <!-- Animation for the letters 'charly' -->
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="1.0s" fill="freeze" />
+    }
+    </tspan>
+  </text>
+</svg>

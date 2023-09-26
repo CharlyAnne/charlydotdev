@@ -4,7 +4,7 @@ import Particle from '../Particle';
 import DnD from '../../assets/Projects/dnd.png';
 import movies from '../../assets/Projects/movies.png';
 import barbie from '../../assets/Projects/barbie.png';
-// import helpbot from '../../assets/Projects/helpbot.png';
+import helpbot from '../../assets/Projects/helpbot.png';
 import calc from '../../assets/Projects/calc.png';
 import love from '../../assets/Projects/love.png';
 
@@ -64,7 +64,7 @@ const Projects = () => {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={DnD}
+              imgPath={helpbot}
               isBlog={false}
               title="HelpBot"
               description="A versatile customer service chatbot 
