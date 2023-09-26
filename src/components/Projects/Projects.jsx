@@ -88,7 +88,7 @@ const Projects = () => {
               project showcases creative animation techniques to produce 
               a delightful and romantic visual experience."
               ghLink="https://github.com/CharlyAnne/I_LOVE_YOU"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://charly-val.netlify.app/"
             />
           </Col>
 
