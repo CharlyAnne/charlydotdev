@@ -72,7 +72,8 @@ const Projects = () => {
                MERN (MongoDB, Express, React, Node.js) stack. The chatbot
                 includes a widget for seamless interaction with users,
                  providing intelligent responses and improving customer 
-                 support."
+                 support.
+                 This is an ongoing project, yet to be deployed."
               ghLink="https://github.com/CharlyAnne/helpbot"
               demoLink="https://github.com/CharlyAnne/helpbot"
             />
