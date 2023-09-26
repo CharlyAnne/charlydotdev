@@ -18,10 +18,10 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I love creative coding because I enjoy coding & designing. Making
-              beautiful art with code is very satisfying to me. Over the past
-              few months, I fell in love with programming and I have at least
-              learnt something, I think…✨
+              I love creative coding because I have genuine love for aesthetics.
+              Making beautiful art with code is very satisfying to me. Over the
+              past few months, I fell in love with programming and I have at
+              least learnt something, I think…✨
               <br />
               <br />I am gaining momentum in classics like
               <i>
@@ -33,7 +33,7 @@ function Home2() {
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{' '}
-                <b className="purple">Cybersecurity and Payment Processing</b>
+                <b className="purple">Cybersecurity and Payment Processing.</b>
               </i>
               <br />
               <br />
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/charlian-xo"
+                  href="https://www.instagram.com/charlian_xo"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
