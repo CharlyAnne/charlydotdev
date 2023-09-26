@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://charlydotdev.vercel.app/" target="_blank">charlydotdev.vercel.com</a>
+  <a href="https://charlydotdev.vercel.app/" target="_blank">charlydotdev.vercel.app</a>
 </h2>
 <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
