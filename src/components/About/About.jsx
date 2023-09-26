@@ -1,10 +1,9 @@
-import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import Particle from '../Particle';
 import Github from './Github';
 import Techstack from './Techstack';
 import AboutCard from './AboutCard.jsx';
-import laptopImg from '../../assets/about.png';
+import laptopImg from '../../assets/about.svg';
 import Toolstack from './Toolstack';
 
 const About = () => {
