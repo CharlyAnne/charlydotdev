@@ -7,9 +7,10 @@ function Type() {
         strings: [
           'Software Engineer',
           'React Developer',
-          'UI Design',
-          'Web Developer',
+          'Financial Analyst',
+          'Web Programmer',
           'JavaScript Engineer',
+
           //   'Open Source Contributor',
         ],
         autoStart: true,
