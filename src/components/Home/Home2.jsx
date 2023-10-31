@@ -23,7 +23,7 @@ function Home2() {
               past few months, I fell in love with programming and I have at
               least learnt something, I think…✨
               <br />
-              <br />I am gaining momentum in classics like
+              <br />I have solid foundation in classics like
               <i>
                 <b className="purple"> Javascript and Python. </b>
               </i>
@@ -33,7 +33,7 @@ function Home2() {
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{' '}
-                <b className="purple">Cybersecurity and Payment Processing.</b>
+                <b className="purple">Finance and Artificial Intelligence.</b>
               </i>
               <br />
               <br />
