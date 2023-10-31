@@ -9,11 +9,12 @@ function Github() {
       </h1>
       <GitHubCalendar
         username="CharlyAnne"
-        blockSize={15}
-        blockMargin={5}
-        color="#f584a4"
-        fontSize={16}
+        blockSize={12}
+        blockMargin={7}
+        color="#ff3373"
+        fontSize={12}
       />
+      <style></style>
     </Row>
   );
 }

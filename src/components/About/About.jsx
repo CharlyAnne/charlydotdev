@@ -1,15 +1,16 @@
 import { Container, Row, Col } from 'react-bootstrap';
-import Particle from '../Particle';
+// import Particle from '../Particle';
 import Github from './Github';
 import Techstack from './Techstack';
 import AboutCard from './AboutCard.jsx';
-import laptopImg from '../../assets/about.svg';
+import myImg from '../../assets/avatar.png';
+import Tilt from 'react-parallax-tilt';
 import Toolstack from './Toolstack';
 
 const About = () => {
   return (
     <Container fluid className="about-section">
-      <Particle />
+      {/* <Particle /> */}
       <Container>
         <Row style={{ justifyContent: 'center', padding: '10px' }}>
           <Col
@@ -30,7 +31,9 @@ const About = () => {
             style={{ paddingTop: '120px', paddingBottom: '50px' }}
             className="about-img"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <Tilt>
+              <img src={myImg} className="img-fluid" alt="avatar" />
+            </Tilt>
           </Col>
         </Row>
         <h1 className="project-heading">

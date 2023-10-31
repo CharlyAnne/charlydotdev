@@ -1,4 +1,3 @@
-import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 // import { CgCPlusPlus } from 'react-icons/cg';
 import {
@@ -6,11 +5,12 @@ import {
   DiReact,
   DiNodejs,
   DiPython,
-  DiGit,
-  // DiFigma,
+  DiDjango,
+  DiCss3,
+  DiHtml5,
 } from 'react-icons/di';
 import { SiNextdotjs } from 'react-icons/si';
-import { TbBrandGolang } from 'react-icons/tb';
+// import { TbBrandGolang } from 'react-icons/tb';
 
 const Techstack = () => {
   return (
@@ -27,15 +27,19 @@ const Techstack = () => {
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <DiFigma />
-      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDjango />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
+      </Col>
     </Row>
   );
 };
