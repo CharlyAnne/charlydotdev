@@ -17,6 +17,12 @@ html {
 .purple {
   color: var(--imp-text-color) !important;
 }
+.social-links {
+  text-decoration: none;
+}
+.social-links:hover {
+  text-decoration: underline;
+}
 
 button:focus {
   box-shadow: none !important;
@@ -358,7 +364,7 @@ button:focus {
   text-align: center !important;
   font-size: 1.2em !important;
   line-height: 2em !important;
-  background: rgba(255, 255, 255, 0.972) !important;
+  background: #292829f8 !important;
   border-radius: 50% !important;
   transition: 0.5s !important;
 }
@@ -597,6 +603,17 @@ button:focus {
   .about-img {
     padding-top: 0 !important;
   }
+}
+
+.col-md-7 {
+  padding-top: 5px !important;
+}
+.row {
+  padding: 0 !important;
+}
+.about-img,
+.col-md-5 {
+  padding-top: 20px !important;
 }
 /* --------- */
 /* Resume */

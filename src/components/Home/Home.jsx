@@ -37,12 +37,8 @@ function Home() {
               >
                 <p>
                   See more{' '}
-                  <a
-                    href="/about"
-                    className="purple"
-                    onClick={() => (window.location.href = '/about')}
-                  >
-                    About Me{' '}
+                  <a href="/about" className="purple social-links">
+                    About Me &rarr;
                   </a>
                 </p>
                 <ul
