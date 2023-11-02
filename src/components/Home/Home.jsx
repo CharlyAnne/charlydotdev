@@ -2,6 +2,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import homeLogo from '../../assets/home-main.svg';
 // import Particles from '../Particle';
 import Type from './Type';
+import { Link } from 'react-router-dom';
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -37,9 +38,10 @@ function Home() {
               >
                 <p>
                   See more{' '}
-                  <a href="https://charlydotdev.vercel.app/about" title="about me" className="purple social-links">
+                  <Link to="/about"
+                  className="purple social-links">
                     About Me &rarr;
-                  </a>
+                  </Link>
                 </p>
                 <ul
                   className="home-about-social-links"
