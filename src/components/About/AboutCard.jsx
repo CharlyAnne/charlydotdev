@@ -21,12 +21,13 @@ const AboutCard = () => {
             <br />
             <br />I am passionate about building new Web Technologies and 
             Products in areas related to 
-              <b className="purple">Finance and Artificial Intelligence.</b>
+              <b className="purple"> Finance and Artificial Intelligence.</b>
             
             <br />
           </p>
           <br />
-          Apart from coding, there are other activities that interest me!
+          Apart from coding, there are other activities that interest me:
+         <br />
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Logical Games
