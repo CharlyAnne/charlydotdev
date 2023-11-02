@@ -12,7 +12,7 @@ const AboutCard = () => {
             <span className="purple">Charlian Imoisili</span>. I'm a front-end
             engineer based in <span className="purple"> Lagos, Nigeria.</span>
             <br />
-            <br />I have solid foundation
+            <br />I have solid foundation in
             <i>
               <b className="purple"> Javascript and Python </b>
             </i>{' '}
