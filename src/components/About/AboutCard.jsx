@@ -12,11 +12,11 @@ const AboutCard = () => {
             <span className="purple">Charlian Imoisili</span>. I'm a front-end
             engineer based in <span className="purple"> Lagos, Nigeria.</span>
             <br />
-            <br />I have solid foundation in classics like
+            <br />I have solid foundation
             <i>
-              <b className="purple"> Javascript and Python and </b>
+              <b className="purple"> Javascript and Python </b>
             </i>{' '}
-            and I've developed a few front-end and back-end projects through my
+            and I've developed a few front-end and fullstack projects through my
             learning phase.
             <br />
             <br />I am passionate about building new
