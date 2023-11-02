@@ -19,12 +19,10 @@ const AboutCard = () => {
             and I've developed a few front-end and fullstack projects through my
             learning phase.
             <br />
-            <br />I am passionate about building new
-            <i>
-              <b className="purple"> Web Technologies and Products </b> in areas
-              related to{' '}
+            <br />I am passionate about building new Web Technologies and 
+            Products in areas related to 
               <b className="purple">Finance and Artificial Intelligence.</b>
-            </i>
+            
             <br />
           </p>
           <br />
