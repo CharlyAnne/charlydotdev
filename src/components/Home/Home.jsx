@@ -37,7 +37,7 @@ function Home() {
               >
                 <p>
                   See more{' '}
-                  <a href="/about" className="purple social-links">
+                  <a href="https://charlydotdev.vercel.app/about" title="about me" className="purple social-links">
                     About Me &rarr;
                   </a>
                 </p>
